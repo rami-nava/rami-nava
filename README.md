@@ -1,16 +1,14 @@
-## Hi there 👋
+## ¡Hola! 👋 Soy Ramiro Navarro
 
-<!--
-**rami-nava/rami-nava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Estudiante avanzado en Ingenieria en Sistemas de Información, en la Universidad Tecnológica Nacional (UTN).
+👨🏻‍💻 Me interesa todo lo relacionado a la construcción de software y la programación.
 
-Here are some ideas to get you started:
+## Tecnologías que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Algunos proyectos en los que trabaje
+
+
+## Contacto
+ Email: raminava60@gmail.com
+ Linkedin: www.linkedin.com/in/ramiro-navarro-380507325
