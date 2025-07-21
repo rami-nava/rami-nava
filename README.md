@@ -4,7 +4,9 @@
 👨🏻‍💻 Me interesa todo lo relacionado a la construcción de software y la programación.
 
 ## Tecnologías que uso
-
+- HTML
+- CSS
+- JavaScript
 
 ## Algunos proyectos en los que trabaje
 
