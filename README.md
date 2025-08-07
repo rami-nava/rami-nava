@@ -1,6 +1,7 @@
 ## ¡Hola! 👋 Soy Ramiro Navarro
 
 📚 Estudiante avanzado en Ingenieria en Sistemas de Información, en la Universidad Tecnológica Nacional (UTN).
+
 👨🏻‍💻 Me interesa todo lo relacionado a la construcción de software y la programación.
 
 ## Tecnologías que uso
@@ -9,9 +10,10 @@
 - JavaScript
 
 ## Algunos proyectos en los que trabaje
-- Sistema de gestión de servicios -> https://github.com/rami-nava/TPA-DDS-2023
+- Sistema de monitoreo de estado de establecimientos y transportes publicos -> https://github.com/rami-nava/TPA-DDS-2023
 - Videojuego de Derby de Demolición -> https://github.com/rami-nava/2023-1C-3051-CrashCoders404
-- Creación de un sistema operativo -> https://github.com/rami-nava/TP-SO-2024
+- Simulación de un sistema operativo -> https://github.com/rami-nava/TP-SO-2024
+- Migración de una Base de Datos y modelo BI -> https://github.com/rami-nava/TP-GDD-2023 
 
 ## Contacto
  Email: raminava60@gmail.com
