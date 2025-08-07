@@ -16,6 +16,7 @@
 - C#
 - Hibernate
 - REST API
+- Bootstrap
 
 
 ## Algunos proyectos en los que trabaje
