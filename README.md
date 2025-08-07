@@ -9,7 +9,9 @@
 - JavaScript
 
 ## Algunos proyectos en los que trabaje
-
+- Sistema de gestión de servicios -> https://github.com/rami-nava/TPA-DDS-2023
+- Videojuego de Derby de Demolición -> https://github.com/rami-nava/2023-1C-3051-CrashCoders404
+- Creación de un sistema operativo -> https://github.com/rami-nava/TP-SO-2024
 
 ## Contacto
  Email: raminava60@gmail.com
