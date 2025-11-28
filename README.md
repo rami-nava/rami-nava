@@ -17,6 +17,8 @@
 - Hibernate
 - REST API
 - Bootstrap
+- Kotlin
+- Compose
 
 
 ## Algunos proyectos en los que trabaje
@@ -26,6 +28,9 @@
 - Migración de una Base de Datos y modelo BI -> https://github.com/rami-nava/TP-GDD-2023
 - Algoritmo genético para dsitribución de aulas -> https://github.com/rami-nava/AlgoritmoGeneticoAulas/tree/main
 - Simulación de trabajo de mantenimiento en maquinas inyectoras -> https://github.com/rami-nava/TP-SIMULACION-2023
+- Aplicación para dispositivos móviles para organizar partidos de futbol:
+-  - App -> https://github.com/rami-nava/PartidoYa
+   - Backend -> https://github.com/rami-nava/partidoYa-backend  
 
 ## Contacto
  Email: raminava60@gmail.com
